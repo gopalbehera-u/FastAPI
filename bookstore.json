@@ -1,0 +1,44 @@
+ {
+    "B001": {
+        "title": "Python Basics",
+        "author": "John Smith",
+        "category": "Programming",
+        "price": 500,
+        "rating": 4.5
+    },
+    "B002": {
+        "title": "FastAPI Guide",
+        "author": "Alice Brown",
+        "category": "Programming",
+        "price": 700,
+        "rating": 4.8
+    },
+    "B003": {
+        "title": "Machine Learning",
+        "author": "Bob Wilson",
+        "category": "AI",
+        "price": 900,
+        "rating": 4.7
+    },
+    "B004": {
+        "title": "Deep Learning",
+        "author": "Andrew Lee",
+        "category": "AI",
+        "price": 1200,
+        "rating": 4.9
+    },
+    "B005": {
+        "title": "SQL Mastery",
+        "author": "David Miller",
+        "category": "Database",
+        "price": 600,
+        "rating": 4.4
+    },
+    "B006": {
+        "title": "Data Science Handbook",
+        "author": "Sarah Johnson",
+        "category": "Data Science",
+        "price": 1000,
+        "rating": 4.6
+    }
+}
